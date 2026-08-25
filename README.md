@@ -50,7 +50,7 @@ print("Connection closed.")
 
 ## client.py
 
-```
+```py
 import socket
 
 # Create socket
@@ -80,9 +80,11 @@ print("Connection closed.")
 
 server.py
 
+<img width="1480" height="193" alt="image" src="https://github.com/user-attachments/assets/c3754d10-3047-41cc-9488-5dbcb0cecbfe" />
 
 client.py
 
+<img width="1066" height="172" alt="image" src="https://github.com/user-attachments/assets/1dc77ec8-0096-4019-9b6c-e491023846af" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
